@@ -1,0 +1,48 @@
+_repo: Dragon-s-teeth-b-A-novel-from-the-Portuguese_74442
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Serrano, Mary J. (Mary Jane)
+    alias: Serrano, Mary Jane Christie
+    deathdate: 1923
+    gutenberg_agent_id: '918'
+    url: http://www.gutenberg.org/2009/agents/918
+    wikipedia: https://en.wikipedia.org/wiki/Mary_J._Serrano
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiroz, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queiroz, Jose Maria Eca de
+    - Queirós, José Maria Eça de
+    - Eça de Queirós, José María
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
+description: ''
+gutenberg_issued: '2024-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74442'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008673434
+pgterms:marc905: 20240712023457queirs
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aBoston :$bTicknor and company, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dragon''s teeth : $b A novel from the Portuguese'
+url: http://www.gutenberg.org/ebooks/74442
