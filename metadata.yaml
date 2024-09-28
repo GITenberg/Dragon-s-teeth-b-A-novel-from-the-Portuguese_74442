@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '918'
     url: http://www.gutenberg.org/2009/agents/918
     wikipedia: https://en.wikipedia.org/wiki/Mary_J._Serrano
+covers:
+- cover_type: archival
+  image_path: 74442-h/images/cover.jpg
 creator:
   author:
     agent_name: Queirós, Eça de
@@ -27,6 +30,8 @@ creator:
     - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74442#Dragon-s-teeth-b-A-novel-from-the-Portuguese
 gutenberg_issued: '2024-09-19'
 gutenberg_type: Text
 identifiers:
